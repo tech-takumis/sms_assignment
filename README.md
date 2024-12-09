@@ -21,5 +21,5 @@ pipenv shell
   pipenv install
   ```
   ### Frontend Samples:
-![Screenshot of our frontend implementation](![465894775_2059484134483421_2410759070785116624_n](https://github.com/user-attachments/assets/f09252ba-6261-4e58-b2c9-7f79087faa02)
-)
+![Screenshot of our frontend implementation](https://github.com/user-attachments/assets/f09252ba-6261-4e58-b2c9-7f79087faa02)
+
